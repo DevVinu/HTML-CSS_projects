@@ -1,0 +1,8 @@
+C:\Users\USER\source\repos\ConsoleApp85\ConsoleApp85\bin\Debug\ConsoleApp85.exe.config
+C:\Users\USER\source\repos\ConsoleApp85\ConsoleApp85\bin\Debug\ConsoleApp85.exe
+C:\Users\USER\source\repos\ConsoleApp85\ConsoleApp85\bin\Debug\ConsoleApp85.pdb
+C:\Users\USER\source\repos\ConsoleApp85\ConsoleApp85\bin\Debug\Nut.dll
+C:\Users\USER\source\repos\ConsoleApp85\ConsoleApp85\obj\Debug\ConsoleApp85.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\ConsoleApp85\ConsoleApp85\obj\Debug\ConsoleApp85.csproj.CopyComplete
+C:\Users\USER\source\repos\ConsoleApp85\ConsoleApp85\obj\Debug\ConsoleApp85.exe
+C:\Users\USER\source\repos\ConsoleApp85\ConsoleApp85\obj\Debug\ConsoleApp85.pdb

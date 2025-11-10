@@ -1,0 +1,60 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\documents\\lec notes\\GUI\\application\\WpfApp4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94EA13E0-D22D-436F-8B7E-E4281F57F2C2}|WpfApp4\\WpfApp4.csproj|e:\\documents\\lec notes\\gui\\application\\wpfapp4\\wpfapp4\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{94EA13E0-D22D-436F-8B7E-E4281F57F2C2}|WpfApp4\\WpfApp4.csproj|solutionrelative:wpfapp4\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94EA13E0-D22D-436F-8B7E-E4281F57F2C2}|WpfApp4\\WpfApp4.csproj|e:\\documents\\lec notes\\gui\\application\\wpfapp4\\wpfapp4\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{94EA13E0-D22D-436F-8B7E-E4281F57F2C2}|WpfApp4\\WpfApp4.csproj|solutionrelative:wpfapp4\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Window1.xaml",
+              "DocumentMoniker": "E:\\documents\\lec notes\\GUI\\application\\WpfApp4\\WpfApp4\\Window1.xaml",
+              "RelativeDocumentMoniker": "WpfApp4\\Window1.xaml",
+              "ToolTip": "E:\\documents\\lec notes\\GUI\\application\\WpfApp4\\WpfApp4\\Window1.xaml",
+              "RelativeToolTip": "WpfApp4\\Window1.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-21T07:09:28.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "E:\\documents\\lec notes\\GUI\\application\\WpfApp4\\WpfApp4\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp4\\MainWindow.xaml",
+              "ToolTip": "E:\\documents\\lec notes\\GUI\\application\\WpfApp4\\WpfApp4\\MainWindow.xaml",
+              "RelativeToolTip": "WpfApp4\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-21T07:09:17.782Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

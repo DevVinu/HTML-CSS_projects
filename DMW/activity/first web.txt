@@ -1,0 +1,11 @@
+<html>
+	<head>
+	
+	</head>
+	<body>
+		<p> Date - 3<sup>>rd</sup>Nov 2025</p>
+		
+		<p> <mark>ingredients:</mark> chocolate base, vanilla cream, chocolate cream, suger syrup, butter, colouring, Strawberry X<sub>2</sub></p>
+	
+	</body>
+</html>

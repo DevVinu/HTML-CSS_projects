@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\ConsoleApp14\ConsoleApp14\bin\Debug\ConsoleApp14.exe.config
+C:\Users\USER\source\repos\ConsoleApp14\ConsoleApp14\bin\Debug\ConsoleApp14.exe
+C:\Users\USER\source\repos\ConsoleApp14\ConsoleApp14\bin\Debug\ConsoleApp14.pdb
+C:\Users\USER\source\repos\ConsoleApp14\ConsoleApp14\obj\Debug\ConsoleApp14.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\ConsoleApp14\ConsoleApp14\obj\Debug\ConsoleApp14.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\ConsoleApp14\ConsoleApp14\obj\Debug\ConsoleApp14.exe
+C:\Users\USER\source\repos\ConsoleApp14\ConsoleApp14\obj\Debug\ConsoleApp14.pdb
+E:\documents\lec notes\GUI\application\ConsoleApp14\ConsoleApp14\bin\Debug\ConsoleApp14.exe.config
+E:\documents\lec notes\GUI\application\ConsoleApp14\ConsoleApp14\bin\Debug\ConsoleApp14.exe
+E:\documents\lec notes\GUI\application\ConsoleApp14\ConsoleApp14\bin\Debug\ConsoleApp14.pdb
+E:\documents\lec notes\GUI\application\ConsoleApp14\ConsoleApp14\obj\Debug\ConsoleApp14.csproj.AssemblyReference.cache
+E:\documents\lec notes\GUI\application\ConsoleApp14\ConsoleApp14\obj\Debug\ConsoleApp14.exe.config
+E:\documents\lec notes\GUI\application\ConsoleApp14\ConsoleApp14\obj\Debug\ConsoleApp14.csproj.CoreCompileInputs.cache
+E:\documents\lec notes\GUI\application\ConsoleApp14\ConsoleApp14\obj\Debug\ConsoleApp14.exe
+E:\documents\lec notes\GUI\application\ConsoleApp14\ConsoleApp14\obj\Debug\ConsoleApp14.pdb

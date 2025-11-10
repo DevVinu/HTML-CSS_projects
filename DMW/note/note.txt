@@ -1,0 +1,116 @@
+.......HTML STRUCTURE.........
+
+HTML is a markup language for creating webpages. it uses elements that enclose plain text. the elements describr how the text  should appear. HTML elements are represented by tags. these  tags are not displayed in the browser , web browser interpret these tags and render the text accordingly to display on thr viewer's screen.
+
+
+
+.......attributes......
+
+
+        
+    properties of tag
+          ||
+          \/  
+<tagname attribute = "value"> content goes here ....</tagname>
+     /\                /\                              /\
+     ||                ||                              ||
+     ||                ||                              ||
+operning tag         value                        closing tag
+
+
+
+Structure of the HTML page
+
+Every HTML document has two main parts
+
+    +HEAD
+        =title of the page.
+        =Meta tags.
+        =Stylesheets/JavaScript Links
+
+    +BODY
+        =put pictures,links,and everything else here.
+
+
+# use simple text editors like
+    (1)notepad.
+
+# fully functional web editors like 
+    (1)adobe
+    (2)dreamweaver
+    (3)Microsoft Expression
+
+# other code editors like 
+    (1)atom 
+    (2)brackets
+    (3)codekit
+
+
+
+........meta tags.......
+
+use meta tags for hightlighht our web page  or rank our web page to the top  by helping search engine.
+
+
+
+basic html tags
+
+
+                                                     tag
+                -------------------------------------||--------------------------------------------
+                ||                                                                               ||
+         container tags                                                                     emplty tags
+
+        # come in pair                                                                   # these tags stand alone    
+        # these tags are opening and closing tags                                        # they dont have a closing tag 
+                    eg: <b> content goes here </b>                                                  eg: <img src = "flower.jpg"/>
+
+
+
+
+
+|.........................................................................................................................|
+|attributes       |                           values                          |            description of the meta tags   |
+|.................|...........................................................|...........................................|
+|                 |                       key words                           |           key words of the webpages       |   
+|                 |                                                           |                                           |
+|        name     |                        description                        |            description of the webpage     |
+|                 |                                                           |                                           |
+|                 |                       author                              |            author of the docummnet        |   
+|                 |                                                           |                                           |
+|                 |                                                           |                                           | 
+|'''''''''''''''''|'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''|'''''''''''''''''''''''''''''''''''''''''''|
+|http-equiv       |                      refresh                              |           refresh document                |   
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\ConsoleApp18\ConsoleApp18\bin\Debug\ConsoleApp18.exe.config
+C:\Users\USER\source\repos\ConsoleApp18\ConsoleApp18\bin\Debug\ConsoleApp18.exe
+C:\Users\USER\source\repos\ConsoleApp18\ConsoleApp18\bin\Debug\ConsoleApp18.pdb
+C:\Users\USER\source\repos\ConsoleApp18\ConsoleApp18\obj\Debug\ConsoleApp18.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\ConsoleApp18\ConsoleApp18\obj\Debug\ConsoleApp18.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\ConsoleApp18\ConsoleApp18\obj\Debug\ConsoleApp18.exe
+C:\Users\USER\source\repos\ConsoleApp18\ConsoleApp18\obj\Debug\ConsoleApp18.pdb
+E:\documents\lec notes\GUI\application\console apps\ConsoleApp18\ConsoleApp18\bin\Debug\ConsoleApp18.exe.config
+E:\documents\lec notes\GUI\application\console apps\ConsoleApp18\ConsoleApp18\bin\Debug\ConsoleApp18.exe
+E:\documents\lec notes\GUI\application\console apps\ConsoleApp18\ConsoleApp18\bin\Debug\ConsoleApp18.pdb
+E:\documents\lec notes\GUI\application\console apps\ConsoleApp18\ConsoleApp18\obj\Debug\ConsoleApp18.csproj.AssemblyReference.cache
+E:\documents\lec notes\GUI\application\console apps\ConsoleApp18\ConsoleApp18\obj\Debug\ConsoleApp18.exe.config
+E:\documents\lec notes\GUI\application\console apps\ConsoleApp18\ConsoleApp18\obj\Debug\ConsoleApp18.csproj.CoreCompileInputs.cache
+E:\documents\lec notes\GUI\application\console apps\ConsoleApp18\ConsoleApp18\obj\Debug\ConsoleApp18.exe
+E:\documents\lec notes\GUI\application\console apps\ConsoleApp18\ConsoleApp18\obj\Debug\ConsoleApp18.pdb
