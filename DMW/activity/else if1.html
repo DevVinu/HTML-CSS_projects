@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+</head>
+<body>
+    <script type = "text/javascript">
+        function deleteConfirm(){
+            let response = confirm("you are deleteing files, are you sure?");
+            if (response == true){
+                alert ("deleted Successfully");
+            }
+            else {
+                alert ("Delete Canceled");
+            }
+        }
+    </script>
+    <input type = "button" value = "delete record" onclick = "deleteConfirm()"> 
+</body>
+</html>

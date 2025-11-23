@@ -1,0 +1,14 @@
+form.box{
+    border: 2px solid black;
+    width: 200px;
+    margin: auto;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: rgb(242, 242, 242);
+}
+
+h1.nm{
+    font-size: 20px;
+    text-decoration: underline;
+    color: rgb(98, 98, 251);
+}

@@ -1,0 +1,41 @@
+body{
+    background-color: antiquewhite;
+  
+    
+}
+
+h1{
+    text-align: center;
+    background-color: rgba(0, 160, 0, 0.807);
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 20px;
+    
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    text-align: justify;
+}
+
+.btn{
+    background-color: rgb(48, 247, 98);
+    color: rgb(0, 0, 0);
+
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 5px;
+    margin-left: 40%;
+    margin-right: 40%;
+    width: 20%;
+
+
+}
+
+.btn:hover{
+    background-color: rgb(0, 81, 255);
+    color: rgba(0, 0, 0, 0.683);
+    cursor: pointer;
+
+    
+}

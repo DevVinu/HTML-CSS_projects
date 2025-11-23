@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="style.css">
+    <script type="text/javascript">
+        function validateEmail(){
+            var emailID = document.forms["myform"]["email"].value;
+            var atpos = emailID.indexOf("@");
+            var dotpos = emailID.lastIndexOf(".");
+            
+            if(atpos < 1 || (dotpos - atpos < 2 )){
+                alert("Please enter correct email ID ");
+                document.myform.email.focus();
+                return false;
+            }
+            return true;
+        }
+    </script>
+</head>
+<body>
+    <form class="box" id="myform">
+        <label>
+            Username:
+        </label><br>
+        <input type="text" id="Username"><br>
+
+        <label>
+            Email:
+        </label><br>
+        <input type="text" id="email"><br><br>
+
+       <center><input type="submit" id="Validate" value="Validate"> </center> 
+    </form>
+
+</body>
+</html>

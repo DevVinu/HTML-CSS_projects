@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Form Validation</title>
+    <link rel="stylesheet" href="style.css">
+
+    <script type="text/javascript">
+        function FormValidation(){
+            let txtUsername = document.getElementById("name").value;
+            let txtcontact = document.getElementById("contact").value;
+            let txtemail = document.getElementById("email").value;
+
+            if(txtUsername == ""){
+                alert("Please enter name");
+                return false;
+            }
+            if(txtcontact == ""){
+                alert("Please enter contact number");
+                return false;
+            }
+            if(isNaN(txtcontact)){
+                alert("Please enter valid contact number");
+                return false;
+            }
+            if(txtemail == ""){
+                alert("Please enter an email");
+                return false;
+            }
+            return true;
+        }
+    </script>
+</head>
+<body>
+    <form class="box" onsubmit="return FormValidation()">
+
+        <center><h1 class="nm">Form Validation</h1></center>
+
+        <label>Name :</label><br>
+        <input type="text" id="name"><br>
+
+        <label>Contact :</label><br>
+        <input type="text" id="contact"><br>
+
+        <label>Email :</label><br>
+        <input type="text" id="email"><br><br>
+    
+        <center><input type="submit" value="Validate"></center> 
+
+    </form>
+</body>
+</html>
