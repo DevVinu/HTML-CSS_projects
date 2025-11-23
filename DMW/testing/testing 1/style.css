@@ -1,0 +1,50 @@
+/* ----------------------- General Styles ----------------------- */
+body {
+  margin: 0;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: black;
+  font-family: "Roboto", sans-serif;
+}
+
+/* ----------------------- Button Styles ----------------------- */
+.btn {
+  all: unset;
+  position: relative;
+  padding: 14px 52px;
+  font-size: 24px;
+  text-transform: uppercase;
+  color: rgba(130, 63, 255, 0.498);
+  border-radius: 100px;
+  cursor: pointer;
+  border: 2px solid rgba(130, 63, 255, 0.531); /* Base border color */
+  transition: border-color 0.2s ease, box-shadow 0.1s ease;
+  overflow: hidden;
+}
+
+.btn::before {
+  content: "";
+  position: absolute;
+  top: -50%;
+  left: -50%;
+  width: 200%;
+  height: 200%;
+  background: radial-gradient(circle at center, rgba(130, 63, 255, 0.5), transparent 70%);
+  opacity: 0;
+  transition: opacity 0.3s ease;
+  pointer-events: none;
+} 
+
+.btn:hover::before {
+  color: blueviolet;
+  opacity: 1;
+}
+
+
+/* Text above button */
+.btn span {
+  position: relative;
+  z-index: 1;
+}
